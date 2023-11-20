@@ -1,4 +1,6 @@
 # DDA_ASG1
+About game:
+Clicker Game that allows user to test and train their hand-eye coordination.
 
 Content Displayed:
 <ul>
